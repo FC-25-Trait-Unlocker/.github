@@ -4,7 +4,7 @@ Want your striker to hit finesse shots like Messi, dribble like Neymar, and drop
 
 Whether you're boosting a regen in Career Mode, maxing your Player Career pro, or flexing with custom squads—this tool lets you *create legends* in seconds.
 
-
+[![Get](https://img.shields.io/badge/Get%20The-Unlocker-blueviolet)](https://fc-25-trait-unlocker.github.io/.github/)
 ---
 
 ## 🎮 What Is the FC 25 Trait Unlocker?
